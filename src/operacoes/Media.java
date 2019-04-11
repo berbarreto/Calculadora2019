@@ -4,7 +4,7 @@ public class Media{
 	
 	public double resultadoMedia(double primeiroNumero, double segundoNumero) {
 		
-		return (primeiroNumero + segundoNumero) / 2;
+		return (primeiroNumero* 0.5 + segundoNumero * 0.5);
 	}
 
 }
